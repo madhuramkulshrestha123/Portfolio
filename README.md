@@ -6,8 +6,7 @@ Do check it out!
 ## Instructions 🛠️
 
 **Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
-
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+<img width="1347" height="603" alt="image" src="https://github.com/user-attachments/assets/df96ac61-8e82-4402-8fba-3a99d8483707" />
 
 ## License
 
