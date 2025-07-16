@@ -6,8 +6,6 @@ Do check it out!
 ## Instructions 🛠️
 
 **Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+
 <img width="1347" height="603" alt="image" src="https://github.com/user-attachments/assets/df96ac61-8e82-4402-8fba-3a99d8483707" />
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
