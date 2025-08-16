@@ -21,9 +21,7 @@ const Career = () => {
               <h3>Jan'25</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              I built and shipped a bunch of ML models that actually worked—no cap,they were 92% accurate. Got deep into tweaking stuff with GridSearchCV and made them even better, so that was a big W. Whole thing was remote, super hands-on, and honestly just vibing with making data do cool things...
             </p>
           </div>
           <div className="career-info-box">
@@ -35,9 +33,7 @@ const Career = () => {
               <h3>July'25</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Brainstorming fresh features and AI drops for Shop.to... straight fire. Got my hands dirty building no-code, AI-powered biz apps with chill chat interfaces... felt low-key futuristic. Whole experience was remote, super collaborative, and just vibes all around!
             </p>
           </div>
           <div className="career-info-box">
@@ -49,9 +45,7 @@ const Career = () => {
               <h3>NOW??</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Ahhh.....
             </p>
           </div>
         </div>
